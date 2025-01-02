@@ -1,0 +1,18 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment configuration
+.env
+
+# Ignore database dummy or sensitive data
+dummy_data.sql
+
+# Ignore package-lock.json (optional, jika Anda ingin hanya menyertakan package.json)
+package-lock.json
